@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="question1">1. Who was the first President of the United States?</string>
+    <string name="answer1">George Washington</string>
+    <string name="question2">2. How many colonies was the United States originally?</string>
+    <string name="answer2">13</string>
+    <string name="question3">3. How many judges are there in the United States Surpreme Court?</string>
+    <string name="answer3">9</string>
+    <string name="question4">4. How many Senators are in the US congress?</string>
+    <string name="answer4">100</string>
+    <string name="question5">5. Which are the two major political parties in the United States government?</string>
+    <string name="answer5">Democrats,Republicians</string>
+
+    <string-array name="questions">
+        <item>@string/question1</item>
+        <item>@string/question2</item>
+        <item>@string/question3</item>
+        <item>@string/question4</item>
+        <item>@string/question5</item>
+    </string-array>
+
+    <string-array name="answers">
+        <item>@string/answer1</item>
+        <item>@string/answer2</item>
+        <item>@string/answer3</item>
+        <item>@string/answer4</item>
+        <item>@string/answer5</item>
+    </string-array>
+
+
+</resources>
